@@ -1,7 +1,0 @@
-**This is broken**
-
- Unfortunatly on 2/29/24 the Azure subscriptions hosting both the AKS cluster and the backups of woofy.social got suspended. I am working on getting an export of the data to see if we can recover the site elsewhere.
-
- I am really sorry for the issues and possible loss this has created...
-
- Puproar
